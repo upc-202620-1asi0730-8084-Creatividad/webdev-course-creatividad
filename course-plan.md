@@ -47,9 +47,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 * **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-* **Enlace**: [Ver Lección](https://)
+* **Enlace**: [Ver Lección](https://youtu.be/KHDmNp_3mRo)
 * **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/ejemplo-form)
+* **Comparte tu Trabajo**: [Envía tu Creación](https://docs.google.com/forms/d/e/1FAIpQLSd9E13Zf54G91wjZbJPewxtN31ag-HkWE7JzOql-1thUCoteA/viewform?usp=publish-editor)
 
 ---
 
@@ -57,14 +57,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-pre-202620-1asi0730-8084-Creatividad/webdev-course-creatividad)
 * **Todas las Actividades Prácticas**:
 
-| Lección | Actividad | Empezar a Programar |
-| :--- | :--- | :--- |
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/ejemplo1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/ejemplo2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/ejemplo3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/ejemplo4) |
-| 5 | Página de perfil | [Replit](https://replit.com/ejemplo5) |
-| 6 | Cuestionario | [Pon a prueba tus conocimientos](https://forms.gle/ejemplo-quiz) |
+| Lección | Actividad | Empezar a Programar                                                                                                                                                                                                     |
+| :--- | :--- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/dosullz/pen/QNxdzd)                                                                                                                                                                        |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/ejemplo2)                                                                                                                                                                                  |
+| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/ejemplo3)                                                                                                                                                                               |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/ejemplo4)                                                                                                                                                                                  |
+| 5 | Página de perfil | [CodePen](https://codepen.io/dosullz/pen/QNxdzd)                                                                                                                                                                                                              |
+| 6 | Cuestionario | [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSd9E13Zf54G91wjZbJPewxtN31ag-HkWE7JzOql-1thUCoteA/viewform?usp=publish-editor)                                                                |
 
 **Compartir:** #WebDevBeginners
 
