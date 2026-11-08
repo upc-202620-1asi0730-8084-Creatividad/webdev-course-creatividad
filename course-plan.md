@@ -41,9 +41,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 * **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-* **Enlace**: [Ver la lección](https://)
+* **Enlace**: [Ver la lección](https://youtu.be/r-OYkeA-8Pg?si=waJAW1Bss469WAGt)
 * **Consejos clave**: Aplicar estilos y depurar errores.
-* **Proyecto Final**: [Crea tu Perfil](https://replit.com/ejemplo-final-project) **¡Guarda y comparte!**
+* **Proyecto Final**: [Crea tu Perfil](https://codepen.io/dosullz/pen/QNxdzd) **¡Guarda y comparte!**
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 * **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
