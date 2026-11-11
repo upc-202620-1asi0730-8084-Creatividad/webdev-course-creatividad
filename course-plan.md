@@ -29,9 +29,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Añadir más elementos HTML (10 minutos)
 * **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-* **Enlace**: [Ver la lección](https://)
+* **Enlace**: [Ver la lección](https://youtu.be/RjCa7kXdwcU)
 * **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-* **Práctica**: [Clic para programar](https://jsfiddle.net/) **¡Comienza al instante!**
+* **Práctica**: [Clic para programar](https://codepen.io/editor/pen?tour=welcome) **¡Comienza al instante!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 * **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
