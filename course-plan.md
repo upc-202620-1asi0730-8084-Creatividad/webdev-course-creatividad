@@ -23,9 +23,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 2: Introducción a HTML (10 minutos)
 * **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-* **Enlace**: [Ver la lección](https://)
+* **Enlace**: [Ver la lección](https://youtu.be/8GwtbXfMk60)
 * **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-* **Práctica**: [Clic para programar](https://codepen.io/dosullz/pen/QNxdzd) **¡No necesitas registrarte!**
+* **Práctica**: [Clic para programar](https://codepen.io/editor/Brandon1677/pen/01a1d0c3-10dc-7fee-95fe-e5b157db063f) **¡No necesitas registrarte!**
 
 ### Lección 3: Añadir más elementos HTML (10 minutos)
 * **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | Lección | Actividad | Empezar a Programar                                                                                                                                                                                                     |
 | :--- | :--- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/dosullz/pen/QNxdzd)                                                                                                                                                                        |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/ejemplo2)                                                                                                                                                                                  |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/editor/Brandon1677/pen/01a1d0c3-10dc-7fee-95fe-e5b157db063f)                                                                                                                                                                                  |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/editor/pen?tour=welcome)                                                                                                                                                                               |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/ejemplo4)                                                                                                                                                                                  |
 | 5 | Página de perfil | [CodePen](https://codepen.io/dosullz/pen/QNxdzd)                                                                                                                                                                                                              |
@@ -80,4 +80,4 @@ NRC 8084
 Startup: Creatividad
 Líder del equipo: [Luis Alonso Huaco Oliva]
 Integrantes del equipo: Huaco Oliva, Luis Alonso; Pareja Caceres, Diana; Razuri Ucañan, Piero Alejandro; Soto Palacios, Brandon Wilder.
-Fecha de entrega: Octubre 2026
+Fecha de entrega: Noviembre 2026
