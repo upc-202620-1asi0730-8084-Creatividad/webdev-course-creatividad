@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # webdev-course-creatividad
 Curso de fundamentos de desarrollo web para estudiantes de secundaria - Equipo Creatividad
 =======
@@ -49,11 +48,3 @@ Curso introductorio de aproximadamente 1 hora para estudiantes de secundaria de 
 | Pareja Caceres, Diana | [Leccion 3]               |
 | Razuri Ucañan, Piero Alejandro | [ --- ]                   |
 | Soto Palacios, Brandon Wilder | [Leccion 2]               |
-
-## Entregables
-
-- `upc-pre-202620-1asi0730-8084-creatividad-course-plan.pdf`
-- `upc-pre-202620-1asi0730-8084-creatividad-course-plan-performance.docx`
-- `upc-pre-202620-1asi0730-8084-creatividad-course-plan-performance.pdf`
-- Archivo `.zip` con artefactos y proyectos de software, si corresponde.
->>>>>>> release/1.0.0
